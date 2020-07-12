@@ -1,0 +1,4 @@
+user = admin
+password = php123
+
+atau root passwd=''
